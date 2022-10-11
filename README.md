@@ -5,7 +5,7 @@
 <p>Dibuat oleh Kelompok 2 Kelas 2A</p>
 <ul>
   <li><a href="https://github.com/salsabilamp3" target="blank">Salsabila Maharani Putri</a></li>
-  <li><a href="https://github.com/" target="blank">Dhafin Rizqi Fadhilah</a></li>
+  <li><a href="https://github.com/DhafinRizqiF" target="blank">Dhafin Rizqi Fadhilah</a></li>
   <li><a href="https://github.com/fardantif21" target="blank">Fardan Al Jihad</a></li>
   <li><a href="https://github.com/yanepradita" target="blank">Yane Pradita</a></li>
 </ul>
