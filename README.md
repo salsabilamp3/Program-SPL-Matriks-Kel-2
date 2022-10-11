@@ -1,6 +1,6 @@
 # Program-SPL-Matriks-Kel-2
 
-<h4>Tugas Analisis Source Code Program Operasi Matriks dan SPL/h4>
+<h4>Tugas Analisis Source Code Program Operasi Matriks dan SPL</h4>
 <p>Program ini dibuat untuk memenuhi tugas sebelum ETS mata kuliah Aljabar Linear</p>
 <p>Dibuat oleh Kelompok 2 Kelas 2A</p>
 <ul>
